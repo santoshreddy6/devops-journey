@@ -9,10 +9,12 @@
 - Bash scripting basics
 
 ## Summary
-*Practiced essential Linux commands
-*Wrote my first Bash scripts
-*Learned how cron works
-*Explored how services run in the background
+- Practiced essential Linux commands  
+- Wrote my first Bash scripts  
+- Learned how cron works  
+- Explored how services run in the background  
+- Understood basic SSH usage  
+- Practiced file permissions and ownership  
 
 ## Commands Practiced
 - ls, cd, pwd
